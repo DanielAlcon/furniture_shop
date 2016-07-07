@@ -1,0 +1,15 @@
+<div ng-controller="ProductsViewController" class="container-fluid">
+
+  <p>
+    Search:
+    <input ng-model="tagFilter" />
+ </p>
+
+ <ul class="products" ng-model="tagFilter" ng-repeat="product in products | filter: {tag: tagFilter, name: nameFilter, description: descriptionFilter}">
+   <li>
+     <h3>{{product.name}}</h3>
+     <img src="{{product.mainPicture}}">
+     <p>{{product.description}}</p>
+   </li>
+ </ul>
+</div>

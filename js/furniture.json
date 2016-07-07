@@ -1,0 +1,73 @@
+[{
+		"tag":"mesas",
+		"id": "mesa1",
+		"name": "Lovbacken",
+		"mainPicture": "img/mesas/mesa1.JPG",
+		"description": "Llamativa mesa de centro",
+		"pictures": ""
+},
+{	
+		"tag":"mesas",
+		"id": "mesa2",
+		"name": "Regissor",
+		"mainPicture": "img/mesas/mesa2.JPG",
+		"description": "Mesa de centro rectangular",
+		"pictures": ""
+},
+{
+		"tag":"mesas",
+		"id": "mesa3",
+		"name": "Rissna",
+		"mainPicture": "img/mesas/mesa3.JPG",
+		"description": "Mesa rústica de campo",
+		"pictures": ""
+},
+{		"tag":"sillas",	
+		"id": "silla1",
+		"name": "Hemnes",
+		"mainPicture": "img/sillas/silla1.JPG",
+		"description": "Sillón acolchado gris",
+		"pictures": ""
+},
+{		
+		"tag":"sillas",	
+		"id": "silla2",
+		"name": "Ingolf",
+		"mainPicture": "img/sillas/silla2.JPG",
+		"description": "Silla original para reuniones",
+		"pictures": ""
+},
+{
+		"tag":"sillas",	
+		"id": "silla3",
+		"name": "Nils",
+		"mainPicture": "img/sillas/silla3.JPG",
+		"description": "Silla original para reuniones",
+		"pictures": ""
+},
+{
+		"tag":"sofas",	
+		"id": "sofa1",
+		"name": "Kivik",
+		"mainPicture": "img/sofas/sofa1.JPG",
+		"description": "Cómodo sofá familiar",
+		"pictures": ""
+},
+{
+		"tag":"sofas",
+		"id": "sofa2",
+		"name": "Tidafors",
+		"mainPicture": "img/sofas/sofa2.JPG",
+		"description": "Cómodo e innovador sofá",
+		"pictures": ""
+},
+{
+		"tag":"sofas",
+		"id": "sofa3",
+		"name": "Vallentuna",
+		"mainPicture": "img/sofas/sofa3.JPG",
+		"description": "Sofá/Sillón",
+		"pictures": ""
+}
+
+]
